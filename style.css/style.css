@@ -20,3 +20,16 @@
 .menu-lista-li:hover {
     background-color: yellowgreen;
 }
+
+.modal-lista{
+    list-style: none;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    border: 10px solid red;
+}
+
+.itens-lista {
+    border: 5px solid black;
+    border-radius: 10px;
+}
