@@ -32,11 +32,17 @@
 .itens-lista {
     border: 5px solid black;
     border-radius: 10px;
+    background-color: yellowgreen;
+    padding: 50px;
 }
 
 @media only screen and (max-width: 760px) and (min-width:320px) {
     .modal-lista {
         flex-direction: column;
         display: block;
+    }
+    .lista-menu {
+        flex-direction: column;
+        color: violet;
     }
 }
