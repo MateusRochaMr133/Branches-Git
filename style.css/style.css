@@ -39,4 +39,10 @@
         flex-direction: column;
         display: block;
     }
+
+    .ll {
+        flex-direction: column;
+        background-color: blanchedalmond;
+        color: white;
+    }
 }
