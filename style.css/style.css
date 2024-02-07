@@ -1,0 +1,22 @@
+
+
+
+.lista-menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    padding: 15px;
+
+}
+
+.menu-lista-li {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.menu-lista-li:hover {
+    background-color: yellowgreen;
+}
