@@ -43,6 +43,11 @@
     }
     .lista-menu {
         flex-direction: column;
-        color: violet;
+        color: violet;}
+
+    .ll {
+        flex-direction: column;
+        background-color: blanchedalmond;
+        color: white;
     }
 }
